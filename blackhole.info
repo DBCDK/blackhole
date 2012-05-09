@@ -1,6 +1,4 @@
 name = Blackhole field storage
 description = Field storage that throws away data.
-version = 0.1
+version = 0.x
 core = 7.x
-files[] = blackhole.module
-dependencies[] = field
